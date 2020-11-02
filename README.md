@@ -1,5 +1,5 @@
 # LorD
-A light or dark (LorD, L||D) theme switching docklication* for Mac OS by iNabiTek.
+A light or dark (LorD, L||D) theme switching docklication* for macOS by iNabiTek.
 Requires macOS Mojave (10.14) as minimum.
 
 1) Download the 'LorD.zip'
