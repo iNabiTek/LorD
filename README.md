@@ -12,7 +12,7 @@ Requires macOS Mojave (10.14) as minimum.
 
 4) Move 'LorD.app' to applications folder (or wherever you like)
 
-5) Drag the 'LorD.app' from your file browser into a suitable position in the dock (towards the left is recommended)
+5) Drag 'LorD.app' from your file browser into a suitable position in the dock (towards the left is recommended)
 
 6) Click the app in the dock and it will toggle between light or dark theme
 
